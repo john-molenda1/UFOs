@@ -15,3 +15,5 @@ One drawback of this webpage is you can't search by a range of dates, and are li
 1) I would like the ability to provide a heatmap (simialr to the hotel challenge we completed earlier) of reported UFO sightings to see which areas are 'UFO Hotspots' as it were
 2) I think it would be beneficial to link each UFO sighting to its own webpage so the user could click on one that they are interested in to provide a more detailed backstory of the events, who reported it, other possible explansations, and perhaps any other reports confirming the sighting.
 
+![image](https://user-images.githubusercontent.com/92773195/148630538-39499273-219a-4fb4-a6a5-e3728fee4a0a.png)
+![image](https://user-images.githubusercontent.com/92773195/148630552-9863062c-e27a-4ae5-a1f4-731caafc0bbe.png)
