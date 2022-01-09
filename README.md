@@ -16,5 +16,6 @@ One drawback of this webpage is you can't search by a range of dates, and are li
 2) I think it would be beneficial to link each UFO sighting to its own webpage so the user could click on one that they are interested in to provide a more detailed backstory of the events, who reported it, other possible explansations, and perhaps any other reports confirming the sighting.
 
 ![image](https://user-images.githubusercontent.com/92773195/148630538-39499273-219a-4fb4-a6a5-e3728fee4a0a.png)
-![image](https://user-images.githubusercontent.com/92773195/148630594-fb7da2db-c134-4e28-844b-47c8fdb0536c.png)
+![image](https://user-images.githubusercontent.com/92773195/148703754-3535f7ac-445f-4c69-b86b-d4ca3d1e2974.png)
+
 
